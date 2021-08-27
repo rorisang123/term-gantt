@@ -3,7 +3,7 @@
 This program displays a gantt chart onto terminal. Coded in Python.
 
 ## Example code
-Download the module and import it into your python file. Use the template below to get started.
+Download the module and import it into your python file. Use the template below and happy dev'ing!
 ```python
 import gantt
 
